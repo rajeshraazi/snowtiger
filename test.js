@@ -2,3 +2,4 @@
 
 // This is sample file is created to manage all the dependecies.
 
+// New scope of js files
